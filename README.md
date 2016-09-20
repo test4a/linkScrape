@@ -1,6 +1,7 @@
 # linkScrape
-  Description: Enumerates employee names from LinkedIn.com
-  Created by: Nick Sanzotta/@beamr
+
+    Description: Enumerates employee names from LinkedIn.com
+    Created by: Nick Sanzotta/@beamr
 
 ***
 Installation:

@@ -28,7 +28,10 @@ Caveats
 
     Does not utilize LinkedIn's API.(This is a pure Web Scraper)
     LinkedIn Account may be flagged or banned.
-    Monthly limitation for company search results.
+    LinkedIn.com account will need 10+ connections/profile strength to perform searches.
+    (This is a rough estimate based on current feedback)
+    Company search results have a monthly cap.
+    Script still has some minor bugs when scraping some character sets.
 
 ***
 Default Values:

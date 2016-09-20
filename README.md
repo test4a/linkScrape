@@ -39,7 +39,7 @@ Usage(CLI):
     -r <results> Searches x amount of LinkedIn.com pages (Default is 5).
     -t <secs>    Sets timeout value. (Default is 5.)
   ***
-    Mangle Options: 
+Mangle Options: 
     
     -m <mangle>
         1)FirstLast        ex:nicksanzotta
@@ -62,11 +62,12 @@ Usage(CLI):
     
     -h <help>  Prints this help menu.
   
-  Tip:
-  If no paramters are defined the Wizard menu will be launched.
+ 
 
 ***
 Usage(Wizard):
+    Tip:
+    If no paramters are defined the Wizard menu will be launched.
 
 ***
 To Do:

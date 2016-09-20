@@ -66,10 +66,10 @@ Mangle Options:
         7)FLast            ex:nsanzotta
         8)LFirst           ex:snick
         9)FirstL           ex:nicks
-        10)F.Last           ex:n.sanzotta
-        11)L.Firstname      ex:s.nick
-        12)FirLa            ex:nicsa
-        13)Lastfir          ex:sanznic  
+        10)F.Last          ex:n.sanzotta
+        11)L.Firstname     ex:s.nick
+        12)FirLa           ex:nicsa
+        13)Lastfir         ex:sanznic  
   
     -d <domain> Append @domain.com to enumerated user list."
     -i <input>  Use local file instead of LinkedIn.com to perform name formatting against."

@@ -72,7 +72,7 @@ Mangle Options:
         13)Lastfir         ex:sanznic  
   
     -d <domain> Append @domain.com to enumerated user list."
-    -i <input>  Use local file instead of LinkedIn.com to perform name formatting against."
+    -i <input>  Use local file instead of LinkedIn.com to perform name Mangle against."
     Misc:
     
     -h <help>  Prints this help menu.

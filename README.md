@@ -18,7 +18,7 @@ Installation:
     cd linkScrape
     python linkScrape.py --help
     
-    3rd Party Python libraries may be required
+    3rd Party Python libraries may be required:
     pip install beautifulsoup4
     pip install bs4
     pip install lxml

@@ -49,14 +49,13 @@ Usage(CLI):
     -r <results> Searches x amount of LinkedIn.com pages (Default is 5).
     -t <secs>    Sets timeout value. (Default is 5.)
   
-  
   Mangle options:
-    -m <mangle>
-    1)FirstLast        ex:nicksanzotta
-    2)LastFirst        ex:sanzottanick
-    3)First.Last       ex:nick.sanzotta
-    4)Last.First       ex:sanzotta.nick
-    5)First_Last       ex:nick_sanzotta
+  -m <mangle>
+  	1)FirstLast        ex:nicksanzotta
+  	2)LastFirst        ex:sanzottanick
+  	3)First.Last       ex:nick.sanzotta
+  	4)Last.First       ex:sanzotta.nick
+  	5)First_Last       ex:nick_sanzotta
     6)Last_First       ex:sanzotta_nick
     7)FLast            ex:nsanzotta
     8)LFirst           ex:snick

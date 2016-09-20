@@ -36,7 +36,6 @@ Default Values:
     If a parameter is not defined it's default value will be choosen.
     Default values listed below.
   
-    companyName= 'acme' (used as an example)
     formatValue = 7
     pageResults = 5
     timeout = 5
@@ -133,5 +132,28 @@ Usage(Wizard):
 
 
 ***
+Output Sample:
+
+      Employee/Title list Saved to: linkScrape-data/acme_employee-title_20160920-1523.txt
+      Robert Dukes : Security Lead
+      Chang Xiu : President
+      Danny Glover : Alliances Manager
+      Rob Becker : SQA Engineer
+
+      Raw Employee list Saved to: linkScrape-data/acme_20160920-1523.txt
+      Robert Dukes
+      Chang Xiu
+      Danny Glover
+      Rob Becker
+      
+      Mangled option chosen: 7
+      Mangled list Saved to: linkScrape-data/acme-mangle-7_20160920-1523.txt
+      rdukes
+      cxiu
+      dglover
+      rbecker
+      
+      Completed in: 21.9s
+
 To Do:
 

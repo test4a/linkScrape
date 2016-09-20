@@ -87,8 +87,50 @@ Mangle Options:
 ***
 Usage(Wizard):
 
-    Tip:
-    If no paramters are defined the Wizard menu will be launched.
+    [*]You did not specify a parameter the wizard has launched:
+      [*]Example: python linkScrape.py -e user@email.com -c acme
+      [*]For help & command line options please use: python linkScrape.py --help
+      
+      Enter LinkedIn Email account[user@email.com]: 
+      ENTERED: "user@email.com"
+      
+      Enter LinkedIn Password: 
+      Enter Company[acme]: 
+      ENTERED: "acme"
+      
+      
+       Mangle options:
+      
+      	 -m <mangle>		  
+                                       1)FirstLast        ex:nicksanzotta
+                                       2)LastFirst        ex:sanzottanick
+                                       3)First.Last       ex:nick.sanzotta
+                                       4)Last.First       ex:sanzotta.nick
+                                       5)First_Last       ex:nick_sanzotta
+                                       6)Last_First       ex:sanzotta_nick
+                                       7)FLast            ex:nsanzotta
+                                       8)LFirst           ex:snick
+                                       9)FirstL           ex:nicks
+                                      10)F.Last           ex:n.sanzotta
+                                      11)L.Firstname      ex:s.nick
+                                      12)FirLa            ex:nicsa
+                                      13)Lastfir          ex:sanznic
+              
+      Enter name Managle choice[ex:7]: 
+      ENTERED: "7"
+      
+      [*]TIP: This value will determine how many page results will be returned.
+      Enter number of pages results[ex:2]: 
+      ENTERED: "5"
+      
+      [*]TIP: This value will determine how long of a delay(in seconds) each page will be scraped.
+      Enter timeout value[ex:5]: 
+      ENTERED: "5"
+      
+      [*]TIP: This value will be added to the end of each mangled result[ex:jsmith@acme.com].
+      Enter Domain suffix[ex:acme.com]: 
+      ENTERED: ""
+
 
 ***
 To Do:

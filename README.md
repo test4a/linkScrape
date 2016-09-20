@@ -19,6 +19,11 @@ Installation:
     python linkScrape.py --help
 
 ***
+Caveats
+
+      Does not utilize LinkedIn's API, This is a pure Web Scraper.
+
+***
 Default Values:
 
     If a parameter is not defined it's default value will be choosen.

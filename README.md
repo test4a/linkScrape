@@ -21,8 +21,9 @@ Installation:
 ***
 Caveats
 
-    Does not utilize LinkedIn's API, This is a pure Web Scraper.
+    Does not utilize LinkedIn's API.(This is a pure Web Scraper)
     LinkedIn Account may be flagged or banned.
+    Monthly Limitation on company search results.
 
 ***
 Default Values:

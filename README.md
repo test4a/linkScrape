@@ -56,15 +56,15 @@ Usage(CLI):
     2)LastFirst        ex:sanzottanick
     3)First.Last       ex:nick.sanzotta
     4)Last.First       ex:sanzotta.nick
-                                 5)First_Last       ex:nick_sanzotta
-                                 6)Last_First       ex:sanzotta_nick
-                                 7)FLast            ex:nsanzotta
-                                 8)LFirst           ex:snick
-                                 9)FirstL           ex:nicks
-                                10)F.Last           ex:n.sanzotta
-                                11)L.Firstname      ex:s.nick
-                                12)FirLa            ex:nicsa
-                                13)Lastfir          ex:sanznic  
+    5)First_Last       ex:nick_sanzotta
+    6)Last_First       ex:sanzotta_nick
+    7)FLast            ex:nsanzotta
+    8)LFirst           ex:snick
+    9)FirstL           ex:nicks
+    10)F.Last           ex:n.sanzotta
+    11)L.Firstname      ex:s.nick
+    12)FirLa            ex:nicsa
+    13)Lastfir          ex:sanznic  
   
     -d <domain> Append @domain.com to enumerated user list."
     -i <input>  Use local file instead of LinkedIn.com to perform name formatting against."

@@ -1,7 +1,5 @@
 # linkScrape
 
-    Description: Enumerates employee names from LinkedIn.com
-    Created by: Nick Sanzotta/@beamr
       ___                __      ____                                             
       /\_ \    __        /\ \    /\  _`\                                           
       \//\ \  /\_\    ___\ \ \/'\\ \,\L\_\    ___   _ __    __     _____      __   
@@ -11,7 +9,8 @@
          \/____/ \/_/\/_/\/_/\/_/\/_/\/_____/\/____/ \/_/ \/__/\/_/ \ \ \/  \/____/
                                                                      \ \_\         
                                                                       \/_/ 
-
+    Description: Enumerates employee names from LinkedIn.com
+    Created by: Nick Sanzotta/@beamr
 ***
 Installation:
 

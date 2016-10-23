@@ -39,7 +39,10 @@ TIPS
       python linkScrape.py -e LinkedInUser@email.com -c "T and T"
    
       2. Searching Companies with common or shared names, will produce incorrect company info results.
-      (Currently working to fix this issue.)
+      (This is a known issue, I plan on addresssing)
+      
+      3. Searching Companies with with White Space currently will produce no company info.
+      (This is a known issue, I plan on addresssing)
         
 ***
 Default Values:

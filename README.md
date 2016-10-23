@@ -33,7 +33,8 @@ Caveats
     Company search results have a monthly cap.
     Script still has some minor bugs when scraping some character sets.
 ***
-TIPS:
+TIPS
+
    1.When searching for companies with "&" such as T&T use the following syntax.(Make sure to use quotes)
    python linkScrape.py -e LinkedInUser@email.com -c "T and T"
    

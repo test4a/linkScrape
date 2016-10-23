@@ -35,11 +35,11 @@ Caveats
 ***
 TIPS
 
-   1.When searching for companies with "&" such as T&T use the following syntax.(Make sure to use quotes)
-   python linkScrape.py -e LinkedInUser@email.com -c "T and T"
+      1.When searching for companies with "&" such as T&T use the following syntax.(Make sure to use quotes)
+      python linkScrape.py -e LinkedInUser@email.com -c "T and T"
    
-   2. Searching Companies with common or shared names, will produce incorrect company info results.
-   (Currently working to fix this issue.)
+      2. Searching Companies with common or shared names, will produce incorrect company info results.
+      (Currently working to fix this issue.)
         
 ***
 Default Values:
